@@ -8,7 +8,7 @@ image:
   repository: halilagin/meddash-cicd-ex-001
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: a4808c2199493108063e71c97ac3a0c376a05f08
+  tag: 9ba9c3dd9885da7d91a4cbbedfe604bfbd0f02c3
 
 imagePullSecrets: []
 nameOverride: ""
