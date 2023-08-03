@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: halilagin/meddash-cicd-ex-001
+  repository: halilagin/cicd-projects-examples
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: 9ba9c3dd9885da7d91a4cbbedfe604bfbd0f02c3
